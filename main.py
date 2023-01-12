@@ -1,7 +1,7 @@
 import pygame
 import pygame.midi
 import concurrent.futures
-import mult_piano
+import mult_keys
 
 
 def some_function(n):
